@@ -235,28 +235,28 @@ body {
 @media screen and (max-height: 1000px) {
   .six .hat {
     left: 50%;
-    /* top:-50px; */
+    top:-50px;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
     left: 50%;
-    /* top:-50px; */
+    top:-50px;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
     left: 50%;
-    /* top:-50px; */
+    top:-50px;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
     left: 50%;
-    /* top: -50px; */
+    top: -50px;
   }
 }
 
