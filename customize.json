@@ -1,0 +1,27 @@
+//  I made this json to help you customize this to your tune.
+
+
+{
+  "greeting": "Dearest",
+  "name": "Self",
+  "greetingText": "Like a novel, I discover myself each and every day! Thank you, God, for gifting me the gift of existence!",
+  "wishText": "Living Life like a Dream. Living it right that's the theme ;)",
+  "imagePath": "img/IMG-20210402-WA0038.jpg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "You rock! Thanks for the birthday wishes, everyone!",
+  "sendButtonLabel": "Send",
+  "text2": "As I was going through the your heart felt well wishes,",
+  "text3": "an idea flashed and I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "I GOT ONE LIFE TO BALL!",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now Dm me your views and feel free to fork my repo.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
+
